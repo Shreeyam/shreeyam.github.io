@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shreeyam Kacker"
   avatar           : "bio-photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "San Francisco, CA"
   employer         : "Planet Labs"
   pubmed           : 
