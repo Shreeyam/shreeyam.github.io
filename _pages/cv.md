@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Aeronautics and Astronautics, Massachusetts Institute of Technology, 2025
+* SM Aeronautics and Astronautics, Massachusetts Institute of Technology, 2022
+  * Thesis: Optical Performance and Prototyping of a Liquid Lens Laser Communications Transceiver
+* MEng Aeronautical Engineering with a Year Abroad, Imperial College London, 2020
+  * Thesis: Design of Low Leakage MEMS Valves for Spacecraft Applications
 
 Work experience
 ======
@@ -44,9 +46,7 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* NASA S3VI
   
 Teaching
 ======
@@ -54,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
