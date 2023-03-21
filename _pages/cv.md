@@ -43,48 +43,49 @@ Publications
 
 ## Journal Papers
 
-* Daniel A Goldman, Paul Serra, **Shreeyam Kacker**, Lucas Benney, Daniel Vresilovic, Steven J Spector, Kerri Cahoy, and Jordan S Wachs. MOEMS-based
+[1] Daniel A Goldman, Paul Serra, **Shreeyam Kacker**, Lucas Benney, Daniel Vresilovic, Steven J Spector, Kerri Cahoy, and Jordan S Wachs. MOEMS-based
 Lens-Assisted Beam Steering for Free-Space Optical Communications. Journal
 of Lightwave Technology.
 
 ## Peer-reviewed Conference Papers
 
-* Hannah Tomio, Albert Thieu, Amelia Gagnon, Sophia K Vlahakis, Shreeyam
+[2] Hannah Tomio, Albert Thieu, Amelia Gagnon, Sophia K Vlahakis, Shreeyam
 Kacker, Joe Kusters, and Kerri Cahoy. Commercially Available Imaging Payloads
 for CubeSat Earth Observation Missions. IEEE.
 
 ## Conference Papers
-* **Shreeyam Kacker**, Mary Dahl, Albert Thieu, Cadence Payne, Kerri Cahoy, Paul
+
+[3] **Shreeyam Kacker**, Mary Dahl, Albert Thieu, Cadence Payne, Kerri Cahoy, Paul
 Fucile, Viviane Menezes, and Sean McCarthy. Satellite for Estimating Aquatic
 Salinity and Temperature (SEASALT) a Payload and Instrumentation Overview.
-* **Shreeyam Kacker**, Alex Meredith, Kerri Cahoy, and Georges Labreche. Machine
+[4] **Shreeyam Kacker**, Alex Meredith, Kerri Cahoy, and Georges Labreche. Machine
 learning image processing algorithms onboard OPS-SAT.
-* **Shreeyam Kacker**, Alex Meredith, Joe Kusters, Hannah Tomio, Violet Felt,
+[5] **Shreeyam Kacker**, Alex Meredith, Joe Kusters, Hannah Tomio, Violet Felt,
 and Kerri Cahoy. On-orbit rule-based and deep learning image segmentation
 strategies. In AIAA SCITECH 2022 Forum.
-* Sean McCarthy, Viviane Menezes, Paul Fucile, Kerri Cahoy, Mary Dahl, Albert
+[6] Sean McCarthy, Viviane Menezes, Paul Fucile, Kerri Cahoy, Mary Dahl, Albert
 Thieu, Cadence Payne, Charles Lindsay, and **Shreeyam Kacker**. Satellite for
 Estimating Aquatic Salinity and Temperature (SEASALT)-A Scientific Overview.
-* Leonid Pogorelyuk, Paul Serra, **Shreeyam Kacker**, Sophia Vlahakis, Nicholas
+[7] Leonid Pogorelyuk, Paul Serra, **Shreeyam Kacker**, Sophia Vlahakis, Nicholas
 Belsten, Gioia Rau, Kenneth G Carpenter, Laurent Pueyo, John D Monnier,
 Ewan S Douglas, et al. Laser-guided space interferometer. In Optical and
 Infrared Interferometry and Imaging VIII, SPIE.
-* **Shreeyam Kacker**, Ondrej Cierny, Jared Boyer, and Kerri Cahoy. Link analysis
+[8] **Shreeyam Kacker**, Ondrej Cierny, Jared Boyer, and Kerri Cahoy. Link analysis
 for a liquid lens beam steering system, the miniature optical steered antenna
 for intersatellite communication: MOSAIC. In Free-Space Laser Communications
 XXXIII, SPIE.
-* Paula do Vale Pereira, Katherine S Chun, Mario M Contreras, Charles Lindsay,
+[9] Paula do Vale Pereira, Katherine S Chun, Mario M Contreras, Charles Lindsay,
 **Shreeyam Kacker**, Raymond Huffman, Christian Haughwout, and Kerri Cahoy.
 Folded Lightweight Actuator Positioning System (FLAPS).
 
 ## Preprints
 
-* Violet Felt, **Shreeyam Kacker**, Joe Kusters, John Pendergast, and Kerri Cahoy.
+[10] Violet Felt, **Shreeyam Kacker**, Joe Kusters, John Pendergast, and Kerri Cahoy.
 Fast Ocean Front Detection Using Deep Learning Edge Detection Models.
 
 ## Theses
 
-* **Shreeyam Kacker**. Optical Performance and Prototyping of a Liquid Lens Laser
+[11] **Shreeyam Kacker**. Optical Performance and Prototyping of a Liquid Lens Laser
 Communications Transceiver. SM thesis, Massachusetts Institute of Technology.
 
 ## Patents
