@@ -41,16 +41,19 @@ Skills
 Publications
 ======
 
-test
-====
+# # Journal Papers
 
 * Daniel A Goldman, Paul Serra, **Shreeyam Kacker**, Lucas Benney, Daniel Vresilovic, Steven J Spector, Kerri Cahoy, and Jordan S Wachs. MOEMS-based
 Lens-Assisted Beam Steering for Free-Space Optical Communications. Journal
 of Lightwave Technology.
-* Violet Felt, **Shreeyam Kacker**, Joe Kusters, John Pendergast, and Kerri Cahoy.
-Fast Ocean Front Detection Using Deep Learning Edge Detection Models.
-* **Shreeyam Kacker**. Optical Performance and Prototyping of a Liquid Lens Laser
-Communications Transceiver. PhD thesis, Massachusetts Institute of Technology.
+
+# # Peer-reviewed Conference Papers
+
+* Hannah Tomio, Albert Thieu, Amelia Gagnon, Sophia K Vlahakis, Shreeyam
+Kacker, Joe Kusters, and Kerri Cahoy. Commercially Available Imaging Payloads
+for CubeSat Earth Observation Missions. IEEE.
+
+# # Conference Papers
 * **Shreeyam Kacker**, Mary Dahl, Albert Thieu, Cadence Payne, Kerri Cahoy, Paul
 Fucile, Viviane Menezes, and Sean McCarthy. Satellite for Estimating Aquatic
 Salinity and Temperature (SEASALT) a Payload and Instrumentation Overview.
@@ -66,9 +69,6 @@ Estimating Aquatic Salinity and Temperature (SEASALT)-A Scientific Overview.
 Belsten, Gioia Rau, Kenneth G Carpenter, Laurent Pueyo, John D Monnier,
 Ewan S Douglas, et al. Laser-guided space interferometer. In Optical and
 Infrared Interferometry and Imaging VIII, SPIE.
-* Hannah Tomio, Albert Thieu, Amelia Gagnon, Sophia K Vlahakis, Shreeyam
-Kacker, Joe Kusters, and Kerri Cahoy. Commercially Available Imaging Payloads
-for CubeSat Earth Observation Missions. IEEE.
 * **Shreeyam Kacker**, Ondrej Cierny, Jared Boyer, and Kerri Cahoy. Link analysis
 for a liquid lens beam steering system, the miniature optical steered antenna
 for intersatellite communication: MOSAIC. In Free-Space Laser Communications
@@ -76,6 +76,16 @@ XXXIII, SPIE.
 * Paula do Vale Pereira, Katherine S Chun, Mario M Contreras, Charles Lindsay,
 **Shreeyam Kacker**, Raymond Huffman, Christian Haughwout, and Kerri Cahoy.
 Folded Lightweight Actuator Positioning System (FLAPS).
+
+# # Preprints
+
+* Violet Felt, **Shreeyam Kacker**, Joe Kusters, John Pendergast, and Kerri Cahoy.
+Fast Ocean Front Detection Using Deep Learning Edge Detection Models.
+
+# # Theses
+
+* **Shreeyam Kacker**. Optical Performance and Prototyping of a Liquid Lens Laser
+Communications Transceiver. SM thesis, Massachusetts Institute of Technology.
   
 Talks
 ======
