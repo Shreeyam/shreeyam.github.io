@@ -86,6 +86,10 @@ Fast Ocean Front Detection Using Deep Learning Edge Detection Models.
 
 * **Shreeyam Kacker**. Optical Performance and Prototyping of a Liquid Lens Laser
 Communications Transceiver. SM thesis, Massachusetts Institute of Technology.
+
+# # Patents
+
+Coming soon baby
   
 Talks
 ======
