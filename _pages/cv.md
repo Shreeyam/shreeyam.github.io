@@ -94,6 +94,8 @@ Fast Ocean Front Detection Using Deep Learning Edge Detection Models.
 [11] **Shreeyam Kacker**. Optical Performance and Prototyping of a Liquid Lens Laser
 Communications Transceiver. SM thesis, Massachusetts Institute of Technology.
 
+[12]. **Shreeyam Kacker**. Design of low leakage MEMS valves for spacecraft applications. MEng thesis, Imperial College London.
+
 ## Patents
 
 Coming soon baby
